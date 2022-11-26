@@ -1,0 +1,26 @@
+#show_sketch {
+    background-color: #551EA1;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Nerko One', cursive;
+}
+
+span{
+    width: 100%;
+}
+#score {
+    font-family: 'Crimson Text', serif;
+    font-size: 25px;
+    margin-right: 1300px;
+
+}
+
+#timer {
+    font-family: 'Crimson Text', serif;
+    font-size: 25px;
+}
+
+p{
+    font-family: 'Crimson Text', serif;
+    font-size: 25px;  
+}
